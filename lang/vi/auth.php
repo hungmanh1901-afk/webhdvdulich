@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'failed' => 'Email hoặc mật khẩu không chính xác.',
+    'throttle' => 'Đăng nhập quá nhiều lần. Vui lòng thử lại sau :seconds giây.',
+    'unauthorized' => 'Bạn không có quyền truy cập trang này.',
+    'login' => 'Đăng nhập',
+    'register' => 'Đăng ký',
+    'logout' => 'Đăng xuất',
+    'email' => 'Email',
+    'password' => 'Mật khẩu',
+    'password_confirmation' => 'Xác nhận mật khẩu',
+    'full_name' => 'Họ và tên',
+    'phone' => 'Số điện thoại',
+    'address' => 'Địa chỉ',
+    'no_account' => 'Chưa có tài khoản?',
+    'has_account' => 'Đã có tài khoản?',
+    'login_success' => 'Đăng nhập thành công!',
+    'logout_success' => 'Đã đăng xuất.',
+    'register_success' => 'Đăng ký tài khoản thành công!',
+    'welcome_back' => 'Chào mừng trở lại',
+    'login_subtitle' => 'Đăng nhập để đặt lịch hướng dẫn viên du lịch',
+    'create_account' => 'Tạo tài khoản',
+    'register_subtitle' => 'Tham gia để khám phá và đặt hướng dẫn viên',
+    'guest_hero_title' => 'Khám phá Việt Nam cùng hướng dẫn viên chuyên nghiệp',
+    'guest_hero_text' => 'Tìm kiếm theo địa điểm, ngôn ngữ và mức giá phù hợp với chuyến đi của bạn.',
+];

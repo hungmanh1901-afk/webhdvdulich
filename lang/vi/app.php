@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'name' => 'Nhóm 10',
+    'tagline' => 'Đặt lịch hướng dẫn viên du lịch',
+    'home' => 'Trang chủ',
+    'guides' => 'Hướng dẫn viên',
+    'my_bookings' => 'Lịch đặt của tôi',
+    'admin_panel' => 'Quản trị',
+    'dashboard' => 'Bảng điều khiển',
+    'welcome' => 'Xin chào, :name',
+    'get_started' => 'Bắt đầu ngay',
+    'explore_guides' => 'Khám phá hướng dẫn viên',
+    'hero_title' => 'Trải nghiệm du lịch trọn vẹn với hướng dẫn viên địa phương',
+    'hero_subtitle' => 'Tìm hướng dẫn viên theo địa điểm, ngôn ngữ và ngân sách. Đặt lịch nhanh chóng, an tâm trọn hành trình.',
+    'feature_search' => 'Tìm kiếm thông minh',
+    'feature_search_desc' => 'Lọc theo địa điểm, ngôn ngữ và mức giá mỗi ngày.',
+    'feature_book' => 'Đặt lịch dễ dàng',
+    'feature_book_desc' => 'Chọn ngày, gửi yêu cầu và theo dõi trạng thái đặt lịch.',
+    'feature_trust' => 'Hướng dẫn viên uy tín',
+    'feature_trust_desc' => 'Thông tin kinh nghiệm, kỹ năng và đánh giá minh bạch.',
+    'admin_welcome' => 'Khu vực quản trị',
+    'admin_intro' => 'Quản lý hướng dẫn viên, khách hàng, lịch đặt và thống kê.',
+    'coming_soon' => 'Tính năng sẽ được bổ sung trong các bước tiếp theo.',
+    'close' => 'Đóng',
+];
